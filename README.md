@@ -1,18 +1,5 @@
 # NamePlate-Plugin
-Unturned Plugin - Plugin that modifies players' names and changes the visibility of their NamePlates!
-
-# Configuration
-NamePlateDisable -> Use TRUE to make nameplates invisible, and FALSE to make them visible!
-
-ByPassAdminPlate -> Use TRUE to make only admins can see nameplates or FALSE to make admins not be able to see nameplates!
-
-ByPassAdminName -> Use TRUE so that the admins nick does not change to a random code or FALSE so that the admins nick changes to a random code
-
-OverrideName -> Use TRUE to enable the player name change function, or FALSE to disable it.
-
-IDLenght -> Used to define the number of characters of an id!
-
-Chars -> Characters that will be used to generate an id!
+Unturned Plugin - ¡Plugin que modifica los nombres de los jugadores y cambia la visibilidad de sus placas de identificación!
 
 # Configuración
 NamePlateDisable -> Use TRUE para hacer que las placas de identificación sean invisibles y FALSE para que sean visibles.
@@ -23,6 +10,6 @@ ByPassAdminName -> Use TRUE para que el nick del administrador no cambie a un c�
 
 OverrideName -> Use TRUE para habilitar la función de cambio de nombre del jugador, o FALSE para deshabilitarla.
 
-IDLenght -> ¡Se usa para definir la cantidad de caracteres de una identificación!
+IDLenght -> Se usa para definir la cantidad de caracteres de una identificación.
 
-Chars -> ¡Caracteres que se usarán para generar una identificación!
+Chars -> Caracteres que se usarán para generar una identificación.
